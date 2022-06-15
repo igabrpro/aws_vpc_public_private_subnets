@@ -29,3 +29,6 @@ Expected result
     
     After applying the config you will have one VPC in AWS region taht has been specified in the config with two subnets one public and one private. The Security group will provide ssh acces and ping.
     
+    
+  ![Alt text](https://github.com/igabrpro/aws_vpc_public_private_subnets/blob/main/scr.png)
+
